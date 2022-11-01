@@ -24,4 +24,9 @@
       <initValue>5</initValue>
       <name>G_ShortTimeOut</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'androidapp/apk-staging-for-iqbal.apk'</initValue>
+      <name>G_StagingCicle</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

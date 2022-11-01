@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC1-Create New Post Without Title</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b6cc720e-14f1-47f2-be32-791c46cfddd4</testCaseGuid>
+</TestCaseEntity>
